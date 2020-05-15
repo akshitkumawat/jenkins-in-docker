@@ -3,7 +3,7 @@
 <body bgcolor=red>
 <pre>
 <?php
-	print `ifconfig`;
+	print `ifconfig`
 ?>
 </pre>
 </body>
